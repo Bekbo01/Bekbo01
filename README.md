@@ -6,7 +6,6 @@
 
 <samp>
 
-[![Upwork](https://img.shields.io/badge/Upwork-Hire%20Me-gray?labelColor=32cd32&style=flat-square&logo=upwork&logoColor=white&link=)]()
 
 ### Who am I ?
 
